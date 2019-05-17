@@ -11,24 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics and Astronomy, Johns Hopkins University, 2019 (expected)
+* M.A. in Physics and Astronomy, Johns Hopkins University, 2016
+* B.S. in Mathematics and Physics, Case Western Reserve University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-Present: Graduate Student
+  * Johns Hopkins University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2013: Research Experience for Undergraduates (REU)
+  * University of Rochester
+
+* Summer 2012: Lewis Educational and Research Collaborative Internship Project (LERCIP) Intern
+  * NASA Glenn Research Center
+
+* Summers 2011,2012: Developer
+  * SpeculatingStocks.com
   
 Skills
 ======
+**Figure this out**
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -41,6 +44,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* Rowland Price for Innovation and Excellence in Teaching, 2017
+* Case Western Reserve B.S. Chandrasekhar Prize, 2013
   
 Talks
 ======
@@ -56,4 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Webmaster for Physics and Astronomy Graduate Student Organization at JHU, 2016-2018
+* Webmaster for Physics and Astronomy Outreach Group at JHU, 2016-2018
+* Active member of Physics and Astronomy Outreach Group at JHU, 2014-Present

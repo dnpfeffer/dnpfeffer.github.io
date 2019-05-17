@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+published: false
 ---
 
 ## Locations of key files/directories
@@ -14,7 +15,6 @@ redirect_from:
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
-  * _portfolio/
   * _posts/
   * _teaching/
   * _talks/

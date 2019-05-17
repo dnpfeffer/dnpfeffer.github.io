@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
-  ],
+    "Penn State University, State College PA, USA", 
+    40.8034484, 
+    -77.8591188403772
+  ], 
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
-  ],
+    "Ohio State University, Columbus OH, USA", 
+    40.00570905, 
+    -83.0286625976912
+  ], 
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Brown University, Providence RI, USA", 
+    41.8268682, 
+    -71.4012305690889
   ]
 ];
