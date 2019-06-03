@@ -26,18 +26,13 @@ Work experience
 * Summer 2012: Lewis Educational and Research Collaborative Internship Project (LERCIP) Intern
   * NASA Glenn Research Center
 
-* Summers 2011,2012: Developer
+* Summers 2011, 2012: Developer
   * SpeculatingStocks.com
   
 Skills
 ======
-**Figure this out**
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++, Matlab, HTML, PHP, JavaScript, Mathematica, Bash
+* Analytical Techniques: Machine Learning (Regression, Decision Trees, SVM, NN), Linear Algebra, Statistics (Maximum Likelihood Fitting)
 
 Publications
 ======
@@ -67,3 +62,5 @@ Service and leadership
 * Webmaster for Physics and Astronomy Graduate Student Organization at JHU, 2016-2018
 * Webmaster for Physics and Astronomy Outreach Group at JHU, 2016-2018
 * Active member of Physics and Astronomy Outreach Group at JHU, 2014-Present
+
+My full resume is available [here](http://dnpfeffer.github.io/files/resume_running.pdf)

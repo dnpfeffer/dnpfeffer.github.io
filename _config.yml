@@ -11,8 +11,8 @@ title                    : "Dan Pfeffer"
 title_separator          : "-"
 name                     : &name "Dan Pfeffer"
 description              : &description "Graduate Student at Johns Hopkins University"
-#url                      : https://dnpfeffer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : http://localhost:4000 #
+url                      : https://dnpfeffer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://localhost:4000 #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dnpfeffer/dnpfeffer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Dan Pfeffer"
-  avatar           : "profile_1.jpg"
+  avatar           : "profile_2.jpg"
   bio              : "Graduate student at Johns Hopkins University"
   location         : "Baltimore, Maryland"
   employer         : "Johns Hopkins University"
