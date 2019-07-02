@@ -2,9 +2,9 @@
 title: "Deconfusing intensity maps with neural networks"
 collection: publications
 permalink: /publication/CNN-LIM
-excerpt: 'In this work we present the first application of convolutional neural network (CNN) to directly determine the underlying luminosity function of a LIM, including a treatment of extragalactic foregrounds and instrumental noise.'
+excerpt: 'In this work we present the first application of using convolutional neural networks (CNNs) to directly determine the underlying luminosity function of a LIM, including a treatment of extragalactic foregrounds and instrumental noise.'
 date: 2019-5-28
-venue: 'arXiv preprint'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1905.10376'
 citation: 'D. N. Pfeffer, P. C. Breysse and G. Stein, 2019'
 ---

@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a theoretical cosmologist working towards my PhD at Johns Hopkins University under the advisement of Prof. Marc Kamionkowsk.  My reasearch has been varied and ranges from exploring the sources ofultra-high-energy cosmic rays, constraining dark matter models using the Cosmic Microwave Background and using machine learning techniques to extract new information from cosmological data.  Recently I have been more focused on developing my machine learning techniques and exploring new applications of applying it in cosmology.
+I am a theoretical cosmologist working towards my PhD at Johns Hopkins University under the advisement of Prof. Marc Kamionkowsk.  My reasearch ranges from exploring the sources ofultra-high-energy cosmic rays, constraining dark matter models using the Cosmic Microwave Background radiation and using machine learning techniques to extract new information from cosmological data.  Recently I have been most focused on the latter, developing machine learning techniques and exploring new applications of them in cosmology.
