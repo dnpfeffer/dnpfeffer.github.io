@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<style>u{color:blue;}</style>
+
 Education
 ======
 * Ph.D in Physics and Astronomy, Johns Hopkins University, 2019 (expected)
@@ -31,8 +33,8 @@ Work experience
   
 Skills
 ======
-* Programming: Python, C, C++, Matlab, HTML, PHP, JavaScript, Mathematica, Bash
-* Analytical Techniques: Machine Learning (Regression, Decision Trees, SVM, NN), Linear Algebra, Statistics (Maximum Likelihood Fitting)
+* Programming: Python, C, C++, Matlab, HTML, PHP, JavaScript, Mathematica, Bash, Tensorflow
+* Analytical Techniques: Machine Learning (Regression, Decision Tree, SVM, NN), Linear Algebra, Statistics (Maximum Likelihood Fitting), Data Analysis, Data Visualization
 
 Publications
 ======
@@ -63,4 +65,4 @@ Service and leadership
 * Webmaster for Physics and Astronomy Outreach Group at JHU, 2016-2018
 * Active member of Physics and Astronomy Outreach Group at JHU, 2014-Present
 
-My full resume is available [here](http://dnpfeffer.github.io/files/resume_running.pdf)
+My full resume is available [<u>here</u>](http://dnpfeffer.github.io/files/resume_running.pdf)
